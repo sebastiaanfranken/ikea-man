@@ -1,0 +1,13 @@
+.TH IKEA 8 "01 march 2015" "1.33" "IKEA man page"
+.SH NAME
+ikea \- builds your stuff from IKEA
+.SH SYNOPSIS
+ikea
+.SH DESCRIPTION
+IKEA is a Swedish store where you can buy new hardware for your /home which tends to come with a complicated manual and a special vendor-supplied tool. This tool is intended to break vendor lock-in by providing an open API to build your IKEA furniture for you.
+.SH OPTIONS
+None, yet
+.SH BUGS
+Doesn't always build furniture the right way, sometimes screws are left over or aren't tightend properly
+.SH AUTHOR
+S. Franken
